@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "starry-antonym-396712",
+  "private_key_id": "9eb1035049c1b09d6fdb4cecdaa7670d1e22e179",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCaobdeco4Q0cV+\nLFNqKi9wRp4qn7VJhPcP9B/+8O970VQrg603XOlZ878PBF1fRKrbQ4yJ8sDlJ5DY\nVjpptjrCG4aMxp+vdqIgsnttovEnJASORd5chFuiTehJD7Dnv1tF8k6kK+ACrb0p\nibCCHjptOilCqelPe0cJrwONbFiZlmd3YXSdkzWpz4qkJwYG9IXc6pLhFC+vcHu7\ny2Z+BUJD0z00VGYTAqFgQKxjUsEisEFnfxuFIoflDOjgxFpRAZcL6l2tf14Db2nR\nDSS41TMawJQ4eUgxpfD+RuVroVdax7L8p2xjThSMiwbCEsnlVzefAgonCvyG1zUI\n4Qh9y0UDAgMBAAECggEAAy+HYxM8w7JGqCb1Svp2grt5tmAW8Ij5kWMSplfECfV8\nj0RFtR5yvO8tcFDt3ttqd7JIZW59CduK+4yp5GlO2ZaOlZI2p6Xr3ieUgmQ5JU4e\nfT3e6wyxBJgn9nAJJs/Flhx8AUbZdRoA4Sex3WRjs2y00pJEjmYi8bCg2UYyUcEE\nIApaUF4cVGrXRUX0802ICxg6HjYkGlELkcEmwKfJkshuaWkgSnzUOqBgHgnHcH7Y\nukjyHvqk5w5hSiwEmpj0Z9W4DxjUBu8GAWyEDUygJarKrEMoQw9jCT39iCuDghrB\n32FN4vN0FMPOkfzTvG3KRMtbvpHo0eyvAAanc15k4QKBgQDKRN5yhHc1Rkhl/hIr\n0cSHm48uX2sYhBrH0ojjl/MbkMcorQFTyzUyaKoNDCvIbkld6vBVbHkg4nDMOP/6\nhXDdezeO66jC1//BHBCqw0P1XFwmrFqV8f4pw/2XX8kYAGbgK9JkAlRPVIHZOLJh\nsMwRwltb0TuKDlIu6oNWho64owKBgQDDtVAIH6pDePPg18dC0jdqv9YXONWOiNBu\nZTBW4i0ohNh4avifY57H5qFiPYsekuntansKfscRDIrKzH4Ki5f+FabqCDw2J5pU\n+WX/MVKmUbpZkLPhUxfpfYdBDzemGOHSwhKSlb+GCeNRylYQDZMS6riXaAvruU0S\nn96RkgQoIQKBgHb7/D8xXU6hgYU96EKOqyV6hMeqqb1KONbDKnN3tzLH/+AVpWo9\nZ5W3rBDwz/Cfr9jnk2ks3jRSADiibzJXvQUMrqoMRsIXfgODFurc4uU655p4WPFL\n4U+AU3Twi8LquZm1LZZXKHFiLOAzUfvVnLX1tvhUJMoZko62tXv4u4wxAoGAUU8W\n/QkK2BV8XUHIy35C/9rLu8IlF57H2dW4i6BUWq02snDe8nmVEkBDdGlVT1KCVd0T\nWXzqf67SSwdCpmbwsuOUAU+ClI1HlV44fhmj2O3DmkqAMXEwUhWRB/qmiB92UvXG\neZg1hh69jtGdh/Xb0NQr9NuJeFn4J3C8K4aaq4ECgYAmRGaRatbtzJJ1vdc6hMvo\nhHn4Vy5MZXqNH5uIxHMYPCt8q/j7gYu8Yfmiaa2dBLSWexAcb2DopTTZtJCpByCr\njh/wgYN+ekZl2eTgSmKT03X9n6eZSVLPmID0tWINo522o5UXRMs/9oIRO01UgrlS\nUj2PhzoaKETN2NE5pSKObg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "expense-scanner@starry-antonym-396712.iam.gserviceaccount.com",
+  "client_id": "103673283580049491339",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/expense-scanner%40starry-antonym-396712.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
